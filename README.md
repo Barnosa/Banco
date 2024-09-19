@@ -1,10 +1,9 @@
 # Projeto Banco Virtual
 
 ## Descrição
-Este projeto é um sistema bancário simples desenvolvido em HTML, CSS e JavaScript, que simula transações financeiras. O aplicativo permite que os usuários criem contas, realizem depósitos, saques e consultem seus saldos de maneira intuitiva e interativa.
+Este projeto é um sistema bancário simples desenvolvido em HTML, CSS e JavaScript, que simula transações financeiras. O aplicativo permite que os usuários  realizem depósitos, saques e consultem seus saldos de maneira intuitiva e interativa.
 
 ## Funcionalidades
-- **Cadastro de Contas**: Os usuários podem criar novas contas com informações como nome e saldo inicial.
 - **Depósitos**: Possibilidade de adicionar dinheiro às contas cadastradas.
 - **Saques**: Realização de saques, respeitando o saldo disponível na conta.
 - **Consulta de Saldo**: Os usuários podem verificar rapidamente o saldo atual de suas contas.
